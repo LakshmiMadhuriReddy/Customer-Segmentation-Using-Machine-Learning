@@ -1,3 +1,4 @@
+![Customer Segmentation Banner](customer-segmentation-banner.png)
 # Customer Segmentation Using Machine Learning
 
 ## Project Overview
